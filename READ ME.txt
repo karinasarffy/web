@@ -1,0 +1,15 @@
+Site-ul creat este : Designer studies
+
+Adresa site: http://proiectiapkarina.esy.es/index.html
+
+Autentificare pe pagina Authetification: 
+-pentru mod secretara: name : Rumnea
+	               password: 1234
+		       position: Secretary
+-pentru mod student:   name : Manole
+	               password: student
+		       position: Student
+
+Se poate face adaugarea unui nou student pe pagina: Registration	
+
+Baza de date : design.sql 
